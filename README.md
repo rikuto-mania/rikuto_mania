@@ -1,3 +1,4 @@
 # rikuto_mania
 My github profile
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=あなたのユーザー名&show_icons=true)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zizi4n5)
+
